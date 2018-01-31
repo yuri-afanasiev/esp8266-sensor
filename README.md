@@ -1,5 +1,5 @@
 # esp8266-sensor
-
+# Текущая версия кода 0.04
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-sensor/master/doc/foto/2.png)
 
 ## Поддерживаемые сервисы: 
