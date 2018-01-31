@@ -1,6 +1,7 @@
 # esp8266-sensor
 
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-sensor/master/doc/foto/2.png)
+![2](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-sensor/master/doc/foto/1.png)
 ## Установка
 Загрузка прошивки с помощью NodeMCU Flasher  https://github.com/nodemcu/nodemcu-flasher
 Скачать можно [тут](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
