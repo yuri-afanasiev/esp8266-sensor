@@ -20,7 +20,7 @@
 - HDC1080    (SDA 4 SCL 5) 
 - BME280     (SDA 4 SCL 5) 
 
-## Поддержка #NRF24L01 
+## Поддержка NRF24L01 
 - до 6 устройств 
 - по 8 переменных с устройства 
 - управление устройствами (test) 
@@ -34,7 +34,7 @@
 ## Установка
 Загрузка прошивки с помощью NodeMCU Flasher  https://github.com/nodemcu/nodemcu-flasher
 Скачать можно [тут](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe)
-
+Видео как загрузить [тут](https://www.youtube.com/watch?v=BzPQeN5GVMM)
 Последнюю версию прошивки можно скачать из папки [build](https://github.com/yuri-afanasiev/esp8266-sensor/tree/master/build)
 
  
