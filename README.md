@@ -1,5 +1,5 @@
 
-# Текущая версия кода 0.04
+# Текущая версия кода 0.05
 ![1](https://raw.githubusercontent.com/yuri-afanasiev/esp8266-sensor/master/doc/foto/2.png)
 
 ## Поддерживаемые сервисы: 
@@ -9,7 +9,7 @@
 
 ## Поддержуемые датчики: 
 - BH1750 I2C (SDA 4 SCL 5) 
-- BMP180     (SDA 4 SCL 5) 
+- BMP180     (SDA 4 SCL 5) (не работает на 0.05)
 - DHT 21     (PIN 2)
 - INA219     (SDA 4 SCL 5) 
 - PZEM004T   (Serial)
