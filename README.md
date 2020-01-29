@@ -8,17 +8,17 @@
 - Отправка данных на свой сервер 
 
 ## Поддержуемые датчики: 
-- BH1750 I2C (SDA 4 SCL 5) 
-- BMP180     (SDA 4 SCL 5) (не работает на 0.05)
-- DHT 21     (PIN 2)
-- INA219     (SDA 4 SCL 5) 
-- PZEM004T   (Serial)
-- DS18B20    (PIN 0)
-- HTU21      (SDA 4 SCL 5) 
-- MAX6675    (CLK 14 CS 12 DO 13)
-- CCS811     (SDA 4 SCL 5) 
-- HDC1080    (SDA 4 SCL 5) 
-- BME280     (SDA 4 SCL 5) 
+- BH1750 I2C  (SDA 4 SCL 5) 
+- BMP180      (SDA 4 SCL 5) (не работает на 0.05)
+- DHT 21      (PIN 2)
+- INA219      (SDA 4 SCL 5) 
+- PZEM004T v1 (Serial)
+- DS18B20     (PIN 0)
+- HTU21       (SDA 4 SCL 5) 
+- MAX6675     (CLK 14 CS 12 DO 13)
+- CCS811      (SDA 4 SCL 5) 
+- HDC1080     (SDA 4 SCL 5) 
+- BME280      (SDA 4 SCL 5) 
 
 ## Поддержка NRF24L01 
 - до 6 устройств 
